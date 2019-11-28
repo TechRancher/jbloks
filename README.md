@@ -40,3 +40,7 @@ If you have the right to give yourself nodes there is a list of the node's regis
 * jbloks:lightWoodTiles
 
 If you are in creative mode then you can just get them out of your inventory.
+
+Screenshot:
+![jbloks Screenshot](/jbloks/screenshot_20191125_124259.png)
+![jbloks Screenshot2](/jbloks/screenshot_20191125_124332.png)
