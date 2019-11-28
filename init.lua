@@ -301,7 +301,7 @@ minetest.register_node("jbloks:lightWoodTiles", {
 
 -- Stairsplus Registration
 if minetest.get_modpath("moreblocks") then
-    --[[stairsplus:register_all("jbloks", "metalGalvanized", "jbloks:metalGalvanized", {
+    stairsplus:register_all("jbloks", "metalGalvanized", "jbloks:metalGalvanized", {
         description = "Metal Galvanized ",
         tiles = {"jbloks_metalGalvanized.jpg" },
         groups = {cracky=2, oddly_breakable_by_hand=3, choppy=3},
@@ -348,14 +348,14 @@ if minetest.get_modpath("moreblocks") then
         tiles = {"jbloks_herringboneBrickGray.png"},
         groups = {cracky=2, oddly_breakable_by_hand=3, choppy=3},
         sounds = default.node_sound_stone_defaults(),
-    })--]]
+    })
 
     stairsplus:register_all("jbloks", "herringboneBrickRed", "jbloks:herringboneBrickRed", {
         description = "Herringbone Brick Red ",
         tiles = {"jbloks_herringboneBrickRed.png"},
         groups = {cracky=2, oddly_breakable_by_hand=3, choppy=3},
         sounds = default.node_sound_stone_defaults(),
-    })--[[
+    })
 
     stairsplus:register_all("jbloks", "herringboneBrickWhite", "jbloks:herringboneBrickWhite", {
         description = "Herringbone Brick White ",
@@ -392,7 +392,7 @@ if minetest.get_modpath("moreblocks") then
         sounds = default.node_sound_wood_defaults(),
     })
 
-    --[[stairsplus:register_all("jbloks", "darkGrayPaintedPlaster", "jbloks:darkGrayPaintedPlaster", {
+    stairsplus:register_all("jbloks", "darkGrayPaintedPlaster", "jbloks:darkGrayPaintedPlaster", {
         description = "Dark Gray Painted Plaster ",
         tiles = {"jbloks_paintedPlasterDarkGray.jpg"},
         groups = {wood=2, oddly_breakable_by_hand=3, choppy=3},
@@ -488,7 +488,7 @@ if minetest.get_modpath("moreblocks") then
         tiles = {"jbloks_woodTilesLight.png"},
         groups = {wood=2, oddly_breakable_by_hand=3, choppy=3},
         sounds = default.node_sound_wood_defaults(),
-    })--]]
+    })
 
 end
 
