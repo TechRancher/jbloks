@@ -1,0 +1,323 @@
+###############################################
+
+Copyright (c) 2019 TechRancher
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+Below credit is giving to the Authors of the photographs and the URL where to obtain your own copy.
+
+###############################################
+
+Title:
+    Weather Wood - Seamless Texture with Normalmap
+Author:
+    Keith333
+URL:
+    https://opengameart.org/content/weathered-wood-seamless-texture-with-normalmap
+License(s):
+    CC-BY 3.0
+Files(s):
+    WeatheredWood_S.jpg
+
+--------------------------------------------------------------------------------------------------------------
+
+Title:
+    Flat Brick
+Author:
+    Pixel-Furnace
+URL:
+    https://textures.pixel-furnace.com/
+License(s):
+    CC0
+File(s):
+    Flat_Brick.zip
+
+-----------------------------------------------------------------------------------------------------------------
+
+Title:
+    038.png
+Author:
+    rubberduck
+URL:
+    https://opengameart.org/node/19002
+License(s):
+    CC0
+File(s):
+    ruff_brick.png
+
+------------------------------------------------------------------------------------------------------------------
+
+Title:
+    Bolted Wooden Planks
+Author:
+    Pixel-Furnace
+URL:
+    https://textures.pixel-furnace.com/
+License(s):
+    CC0
+File(s)
+    Bolted_Wooden_Planks.zip
+
+-----------------------------------------------------------------------------------------------------------------
+
+Title:
+    Seamless Brick/Concrete Textures 2 - Title_Gravel_0.png
+Author:
+    BMacZero
+URL:
+    https://opengameart.org/node/27706
+License(s):
+    CC0
+File(s):
+    title_gravel.png
+
+----------------------------------------------------------------------------------------------------------------
+
+Title:
+    Wood Painted
+Author:
+    Texturer.com
+URL:
+    http://texturer.com/set3645/
+License(s):
+    "AS IS" without warranty of any kind.
+File(s):
+    wood_painted_3645_4614_Small.jpg
+
+------------------------------------------------------------------------------------------------------------------
+
+Title:
+    Texture - Wood - New
+Author:
+    Texturer.com
+URL:
+    http://texturer.com/set6685/
+License(s):
+    "AS IS" without warranty of any kind.
+File(s):
+    wood_new_6685_9560_Small.jpg
+
+------------------------------------------------------------------------------------------------------------------
+
+Title:
+    Painted Plaster #6
+Author:
+    Struffel Productions (Lennart Demes) 2017-2019
+URL:
+    https://cc0textures.com/view?tex=PaintedPlaster06
+License(s):
+    CC0
+File(s):
+    [2K]PaintedPlaster06.zip
+
+------------------------------------------------------------------------------------------------------------------
+
+Title:
+    Wood Siding #06
+Author:
+    Struffel Productions (Lennart Demes) 2017-2019
+URL:
+    https://cc0textures.com/view?tex=WoodSiding06
+License(s):
+    CC0
+File(s):
+    [2K]WoodSiding06.zip
+
+------------------------------------------------------------------------------------------------------------------
+
+Title:
+    Bricks #23
+Author:
+    Struffel Productions (Lennart Demes) 2017-2019
+URL:
+    https://cc0textures.com/view?tex=Bricks23
+License(s):
+    CC0
+File(s):
+    [2K]Bricks23.zip
+-----------------------------------------------------------------------------------------------------------------
+
+ Title:
+    Wood Floor #07
+Author:
+    Struffel Productions (Lennart Demes) 2017-2019
+URL:
+    https://cc0textures.com/view?tex=WoodFloor07
+License(s):
+    CC0
+File(s):
+    [2K]WoodFloor07.zip
+
+------------------------------------------------------------------------------------------------------------------
+
+Title: 
+    White Asphalt Tilling ALT 512px
+Author:
+    Tiziana
+URL:
+    https://opengameart.org/content/white-asphalt-tilling-alt-512px
+License(s):
+    CC-BY 3.0
+File(s):
+    01tizeta_cem512.jpg
+
+--------------------------------------------------------------------------------------------------------------------
+
+Title:
+    Diamond Metal Plate
+Author:
+    Pixel-Furnace
+URL:
+    https://textures.pixel-furnace.com/
+License(s):
+    CC0
+File(s):
+    Diamond_Plate.zip
+
+---------------------------------------------------------------------------------------------------------------------
+
+Title:
+    Wood Tiles
+Author:
+    Pixel-Furnace
+URL:
+    https://textures.pixel-furnace.com/
+License(s):
+    CC0
+File(s):
+    Wood_Tiles.zip
+
+------------------------------------------------------------------------------------------------------------------------
+
+Title:
+    Wooden Panel 02
+Author:
+    Pixel-Furnace
+URL:
+    https://textures.pixel-furnace.com/
+License(s):
+    CC0
+File(s):
+    Wood_Panel_02.zip
+
+------------------------------------------------------------------------------------------------------------------------
+
+Title:
+    Wooden Planks 02
+Author:
+    Pixel-Furnace
+URL:
+    https://textures.pixel-furnace.com/
+License(s):
+    CC0
+File(s):
+    Wooden_Planks_02.zip
+
+------------------------------------------------------------------------------------------------------------------------
+
+Title:
+    Herringbone Brick
+Author:
+    Pixel-Furnace
+URL:
+    https://textures.pixel-furnace.com/
+License(s):
+    CC0
+File(s):
+    Herringbone_Brick.zip
+
+------------------------------------------------------------------------------------------------------------------------
+
+Title:
+    Galvanized Metal
+Author:
+    Pixel-Furnace
+URL:
+     https://textures.pixel-furnace.com/
+License(s):
+    CC0
+File(s):
+    "Galvanized Metal.zip"
+
+------------------------------------------------------------------------------------------------------------------------
+
+Title:
+    Old Wood
+Author:
+    Pixel-Furnace
+URL:
+    https://textures.pixel-furnace.com/
+License(s):
+    CC0
+File(s):
+    Old_Wood.zip
+
+------------------------------------------------------------------------------------------------------------------------
+
+Title:
+    Old Brick
+Author:
+    Pixel-Furnace
+URL:
+    https://textures.pixel-furnace.com/
+License(s):
+    CC0
+File(s):
+    Old_Brick.zip
+
+------------------------------------------------------------------------------------------------------------------------
+
+Title:
+    Old Red Brick
+Author:
+    Pixel-Furnace
+URL:
+    https://textures.pixel-furnace.com/
+License(s):
+    CC0
+File(s):
+    Old_Red_Brick.zip
+
+------------------------------------------------------------------------------------------------------------------------
+
+Title:
+    Metal Aircraft Interior Rusty
+Author:
+    Matt Dirks
+URL:
+    https://gametextures.com/freebies
+License(s):
+    GameTextures freebies License
+File(s):
+    MetalAircraftinteriorRusty_BlenderCycles2kBitmap.zip
+
+------------------------------------------------------------------------------------------------------------------------
+
+Title:
+    Stone Pavement  
+Author:
+    Pixel-Furnace
+URL:
+    https://textures.pixel-furnace.com/
+License(s):
+    CC0
+File(s):
+    Stone_Pavement.zip
+
+------------------------------------------------------------------------------------------------------------------------
